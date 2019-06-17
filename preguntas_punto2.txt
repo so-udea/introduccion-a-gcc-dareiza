@@ -1,0 +1,4 @@
+¿Que hacen los parametros argc y argv?
+R/ argv y argc son la forma en que los argumentos de la línea de comando se pasan a main () en C.
+	argc de tipo entero contiene el número de argumentos que se han introducido.
+	argv de es un array de punteros de tipo char es.
