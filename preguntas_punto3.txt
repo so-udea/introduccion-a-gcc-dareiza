@@ -1,0 +1,10 @@
+¿Que hace la funcion atoi?
+R/ La funcion atoi permite la conversion de cadenas de caracteres (string) a enteros
+
+Ademas de atoi existen otras funciones que permitan convertir 
+cadenas de caracteres a numeros reales ¿cuales?
+R/ La funcion atof que convierte una cadena a su valor numerico como flotante
+ 
+Existen funciones que convierten valores numericos a cadenas de caracteres ¿cuales?
+R/ si existe la funcion itoa que convierte los tipos de datos numericos a cadenas de caracteres
+
