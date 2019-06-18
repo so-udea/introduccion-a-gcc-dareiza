@@ -2,3 +2,6 @@
 R/ argv y argc son la forma en que los argumentos de la línea de comando se pasan a main () en C.
 	argc de tipo entero contiene el número de argumentos que se han introducido.
 	argv de es un array de punteros de tipo char es.
+
+¿Como se usa el programa? (Observe el video).
+R/ El programa imprimela cantidad de argumentos ingresados, cuando se agrega "debug" se pasara a imprimir "PROGRAM DEBUG MODE" de igual manera si se le agrega "-file" imprimira "PROGRAM READ FILENAME" y el nombre del archivo que se esta leyendo, sino se da el nombre sera un null.
